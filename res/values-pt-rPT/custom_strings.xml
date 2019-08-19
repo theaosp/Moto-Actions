@@ -84,13 +84,13 @@
     <string name="action_volume_down">Diminuir o volume</string>
     <string name="action_voice_assistant">Assistente de voz</string>
     <string name="action_play_pause">Reproduzir/Parar</string>
-    <string name="action_previous_track">Faixa anterior</string>
-    <string name="action_next_track">Faixa seguinte</string>
+    <string name="action_previous_track">Música anterior</string>
+    <string name="action_next_track">Música seguinte</string>
     <string name="action_flashlight">Activar/desactivar lanterna</string>
     <string name="action_camera">Abrir câmara</string>
     <string name="action_screenshot">Capturar ecrã</string>
     <string name="action_browser">Abrir o navegador</string>
-    <string name="action_dialer">Abrir marcador</string>
+    <string name="action_dialer">Abrir telefone</string>
     <string name="action_email">Abrir aplicação de email</string>
     <string name="action_messages">Abrir aplicação de mensagens</string>
     <!-- Screen off gestures -->

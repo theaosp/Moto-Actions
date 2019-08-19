@@ -51,8 +51,8 @@
     <string name="device_gestures_title">Gesti del dispositivo</string>
     <string name="device_gestures_summary">Gestione dei gesti del dispositivo</string>
     <!-- Ambient display gestures -->
-    <string name="ambient_display_title">Display Ambient</string>
-    <string name="ambient_display_manage_summary">Gestisci i gesti del Display Ambient</string>
+    <string name="ambient_display_title">Ambient display</string>
+    <string name="ambient_display_manage_summary">Gestione dei gesti dell\'ambient display</string>
     <!-- Fingerprint gestures -->
     <string name="fingerprint_gestures_title">Gesti sensore di impronte digitali</string>
     <string name="fingerprint_gestures_summary">Utilizza i gesti del sensore di impronte digitali</string>
@@ -64,10 +64,10 @@
     <string name="fingerprint_double_tap_dlg_title">Seleziona l\'azione per il doppio tocco</string>
     <string name="fingerprint_long_tap_title">Tocco prolungato</string>
     <string name="fingerprint_long_tap_dlg_title">Seleziona l\'azione per il tocco prolungato</string>
-    <string name="fingerprint_swipe_left_title">Scorri verso sinistra</string>
-    <string name="fingerprint_swipe_left_dlg_title">Seleziona l\'azione per lo scorrimento verso sinistra</string>
-    <string name="fingerprint_swipe_right_title">Scorri verso destra</string>
-    <string name="fingerprint_swipe_right_dlg_title">Seleziona l\'azione per lo scorrimento verso destra</string>
+    <string name="fingerprint_swipe_left_title">Scorri a sinistra</string>
+    <string name="fingerprint_swipe_left_dlg_title">Seleziona l\'azione per lo scorrimento a sinistra</string>
+    <string name="fingerprint_swipe_right_title">Scorri a destra</string>
+    <string name="fingerprint_swipe_right_dlg_title">Seleziona l\'azione per lo scorrimento a destra</string>
     <!-- Fingerprint gestures screen off -->
     <string name="fingerprint_gestures_screenoff_title">Gesti del sensore di impronte digitali quando lo schermo è spento</string>
     <string name="fingerprint_gestures_screenoff_summary">Utilizza i gesti del sensore di impronte digitali quando lo schermo è spento.\n\nLo sblocco tramite impronta digitale deve essere disattivato per poter utilizzare questa funzione.</string>
@@ -75,7 +75,7 @@
     <!-- Actions -->
     <string name="action_none">Nessuna</string>
     <string name="action_home">Home</string>
-    <string name="action_power">Accendi/spegni schermo</string>
+    <string name="action_power">Accendi/Spegni schermo</string>
     <string name="action_wake">Riattiva</string>
     <string name="action_back">Indietro</string>
     <string name="action_recents">Recenti</string>
@@ -83,12 +83,12 @@
     <string name="action_volume_up">Aumenta il volume</string>
     <string name="action_volume_down">Abbassa il volume</string>
     <string name="action_voice_assistant">Assistente vocale</string>
-    <string name="action_play_pause">Riproduci/pausa</string>
+    <string name="action_play_pause">Riproduci/Metti in pausa</string>
     <string name="action_previous_track">Brano precedente</string>
     <string name="action_next_track">Brano successivo</string>
-    <string name="action_flashlight">Accendi/spegni torcia</string>
+    <string name="action_flashlight">Accendi/Spegni torcia</string>
     <string name="action_camera">Avvia la fotocamera</string>
-    <string name="action_screenshot">Acquisisci screenshot</string>
+    <string name="action_screenshot">Cattura la schermata</string>
     <string name="action_browser">Apri il browser</string>
     <string name="action_dialer">Apri l\'app telefono</string>
     <string name="action_email">Apri l\'app email</string>
@@ -96,10 +96,10 @@
     <!-- Screen off gestures -->
     <string name="screen_off_gestures_title">Gesti a schermo spento</string>
     <string name="screen_off_gestures_manage_summary">Gestisci i gesti quando lo schermo è spento</string>
-    <string name="screen_off_gestures_swipe_left_title">Scorri verso sinistra</string>
-    <string name="screen_off_gestures_swipe_left_dlg_title">Seleziona l\'azione per lo scorrimento verso sinistra</string>
-    <string name="screen_off_gestures_swipe_right_title">Scorri verso destra</string>
-    <string name="screen_off_gestures_swipe_right_dlg_title">Seleziona l\'azione per lo scorrimento verso destra</string>
+    <string name="screen_off_gestures_swipe_left_title">Scorri a sinistra</string>
+    <string name="screen_off_gestures_swipe_left_dlg_title">Seleziona l\'azione per lo scorrimento a sinistra</string>
+    <string name="screen_off_gestures_swipe_right_title">Scorri a destra</string>
+    <string name="screen_off_gestures_swipe_right_dlg_title">Seleziona l\'azione per lo scorrimento a destra</string>
     <string name="screen_off_gestures_swipe_up_title">Scorri verso l\'alto</string>
     <string name="screen_off_gestures_swipe_up_dlg_title">Seleziona l\'azione per lo scorrimento verso l\'alto</string>
     <string name="screen_off_gestures_swipe_down_title">Scorri verso il basso</string>
@@ -116,5 +116,5 @@
     <!-- Title text for double tap power for camera [CHAR LIMIT=60]-->
     <!-- Summary text for double tap power for camera [CHAR LIMIT=160]-->
     <!-- Restart device -->
-    <string name="restart_needed">Il dispositivo deve essere riavviato per applicare le impostazioni. Riavviare ora?</string>
+    <string name="restart_needed">Il dispositivo deve essere riavviato per applicare le impostazioni, riavviare ora?</string>
 </resources>

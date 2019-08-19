@@ -58,7 +58,7 @@
     <string name="fingerprint_gestures_summary">Dùng cử chỉ vân tay</string>
     <string name="fingerprint_gestures_manage_summary">Quản lý cử chỉ vân tay</string>
     <string name="fingerprint_actions_screenon">Hành động khi màn hình bật</string>
-    <string name="fingerprint_tap_title">Chạm một lần</string>
+    <string name="fingerprint_tap_title">Chạm 1 lần </string>
     <string name="fingerprint_tap_dlg_title">Chọn hành động cho một chạm</string>
     <string name="fingerprint_double_tap_title">Chạm đôi</string>
     <string name="fingerprint_double_tap_dlg_title">Chọn hành động cho chạm đôi</string>
@@ -78,7 +78,7 @@
     <string name="action_power">Bật/tắt màn hình</string>
     <string name="action_wake">Đánh thức</string>
     <string name="action_back">Quay lại</string>
-    <string name="action_recents">Đa nhiệm</string>
+    <string name="action_recents">Gần đây</string>
     <string name="action_last_app">Ứng dụng cuối</string>
     <string name="action_volume_up">Tăng âm lượng</string>
     <string name="action_volume_down">Giảm âm lượng</string>
@@ -86,7 +86,7 @@
     <string name="action_play_pause">Phát/Tạm dừng</string>
     <string name="action_previous_track">Bản nhạc trước</string>
     <string name="action_next_track">Bản nhạc tiếp theo</string>
-    <string name="action_flashlight">Bật/tắt đèn pin</string>
+    <string name="action_flashlight">Tắt/Bật đèn pin</string>
     <string name="action_camera">Mở máy ảnh</string>
     <string name="action_screenshot">Chụp ảnh màn hình</string>
     <string name="action_browser">Mở trình duyệt</string>
@@ -106,7 +106,7 @@
     <string name="screen_off_gestures_swipe_down_dlg_title">Chọn hành động cho vuốt xuống</string>
     <!-- Double tap to wake -->
     <string name="tap_to_wake">Chạm để đánh thức</string>
-    <string name="tap_to_wake_summary">Chạm hai lần bất cứ đâu trên màn hình để đánh thức thiết bị</string>
+    <string name="tap_to_wake_summary">Chạm đôi bất cứ nơi nào trên màn hình để đánh thức thiết bị</string>
     <!-- Screen off gestures haptic feedback -->
     <string name="haptic_feedback">Phản hồi xúc giác</string>
     <string name="haptic_feedback_summary">Rung khi một cử chỉ màn hình cảm ứng được phát hiện</string>

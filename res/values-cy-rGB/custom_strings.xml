@@ -20,12 +20,8 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Title and summary -->
     <!-- Label for feature switch [CHAR LIMIT=30] -->
-    <string name="switch_bar_on">Идвэхжүүлэх</string>
     <!-- Label for feature switch [CHAR LIMIT=30] -->
-    <string name="switch_bar_off">Унтраах</string>
     <!-- Camera gesture -->
-    <string name="camera_gesture_title">2 удаа базах</string>
-    <string name="camera_gesture_summary">2 удаа базаж камерыг нээх</string>
     <!-- Chop-chop gesture -->
     <!-- Hand wave silencer gesture -->
     <!-- Hand wave gesture -->
@@ -36,29 +32,11 @@
     <!-- Device gestures -->
     <!-- Ambient display gestures -->
     <!-- Fingerprint gestures -->
-    <string name="fingerprint_long_tap_title">Удаан дарах</string>
-    <string name="fingerprint_long_tap_dlg_title">Удаан дарахад хийх үйлдлийг сонгох</string>
-    <string name="fingerprint_swipe_left_title">Зүүн тийш шудрах</string>
     <!-- Fingerprint gestures screen off -->
     <!-- Actions -->
-    <string name="action_home">Эхлэл</string>
-    <string name="action_power">Дэлгэц асах/унтрах</string>
-    <string name="action_wake">Сэрэх</string>
-    <string name="action_back">Буцах</string>
-    <string name="action_recents">Сүүлийн</string>
-    <string name="action_last_app">Өмнөх апп</string>
-    <string name="action_volume_up">Дуу чангалах</string>
-    <string name="action_volume_down">Дуу суллах</string>
-    <string name="action_voice_assistant">Дуут туслах</string>
-    <string name="action_play_pause">Тоглуулах/Түр зогсоох</string>
     <!-- Screen off gestures -->
-    <string name="screen_off_gestures_swipe_down_title">Доош шудрах</string>
-    <string name="screen_off_gestures_swipe_down_dlg_title">Доош шудрахад хийх үйлдлийг сонгох</string>
     <!-- Double tap to wake -->
-    <string name="tap_to_wake">Дарж сэрээх</string>
-    <string name="tap_to_wake_summary">Дэлгэц дээр 2 удаа дарж сэрээх</string>
     <!-- Screen off gestures haptic feedback -->
-    <string name="haptic_feedback">Чичиргээт хариу үйлдлүүд</string>
     <!-- Proximity sensor -->
     <!-- Title text for double tap power for camera [CHAR LIMIT=60]-->
     <!-- Summary text for double tap power for camera [CHAR LIMIT=160]-->

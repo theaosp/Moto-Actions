@@ -90,31 +90,31 @@
     <string name="action_camera">Abrir cámara</string>
     <string name="action_screenshot">Capturar pantalla</string>
     <string name="action_browser">Abrir navegador</string>
-    <string name="action_dialer">Abrir o teléfono</string>
-    <string name="action_email">Abrir aplicativo de correo electrónico</string>
-    <string name="action_messages">Abrir aplicativo de mensaxes</string>
+    <string name="action_dialer">Abrir o marcador</string>
+    <string name="action_email">Abrir a app do correo electrónico</string>
+    <string name="action_messages">Abrir a app da mensaxería</string>
     <!-- Screen off gestures -->
     <string name="screen_off_gestures_title">Xestos coa pantalla apagada</string>
-    <string name="screen_off_gestures_manage_summary">Xestionar Xestos cando a pantalla está apagada</string>
+    <string name="screen_off_gestures_manage_summary">Xestionar xestos cando a pantalla se atope apagada</string>
     <string name="screen_off_gestures_swipe_left_title">Esvarar á esquerda</string>
-    <string name="screen_off_gestures_swipe_left_dlg_title">Selecciona acción para esvarar a esquerda</string>
+    <string name="screen_off_gestures_swipe_left_dlg_title">Seleccionar acción pra esvarar a esquerda</string>
     <string name="screen_off_gestures_swipe_right_title">Esvarar á dereita</string>
-    <string name="screen_off_gestures_swipe_right_dlg_title">Selecciona acción para esvarar a dereita</string>
+    <string name="screen_off_gestures_swipe_right_dlg_title">Seleccionar acción pra esvarar a dereita</string>
     <string name="screen_off_gestures_swipe_up_title">Esvarar cara arriba</string>
-    <string name="screen_off_gestures_swipe_up_dlg_title">Selecciona acción para esvarar cara a riba</string>
-    <string name="screen_off_gestures_swipe_down_title">Evarar cara a baixo</string>
-    <string name="screen_off_gestures_swipe_down_dlg_title">Selecciona acción para esvarar cara a baixo</string>
+    <string name="screen_off_gestures_swipe_up_dlg_title">Seleccionar acción pra esvarar cara enriba</string>
+    <string name="screen_off_gestures_swipe_down_title">Esvarar cara embaixo</string>
+    <string name="screen_off_gestures_swipe_down_dlg_title">Seleccionar acción pra esvarar cara embaixo</string>
     <!-- Double tap to wake -->
-    <string name="tap_to_wake">Tocar para activar</string>
-    <string name="tap_to_wake_summary">Toca dúas veces en calquera parte da pantalla para activar o dispositivo</string>
+    <string name="tap_to_wake">Tocar pra activar</string>
+    <string name="tap_to_wake_summary">Toca dúas veces en calquera parte da pantalla pra activar o dispositivo</string>
     <!-- Screen off gestures haptic feedback -->
-    <string name="haptic_feedback">Resposta Tàctil</string>
-    <string name="haptic_feedback_summary">Vibrar cando se detecta un xesto táctil</string>
+    <string name="haptic_feedback">Resposta Táctil</string>
+    <string name="haptic_feedback_summary">Vibrar cando se detecte un xesto táctil</string>
     <!-- Proximity sensor -->
-    <string name="allow_proximity_sensor_title">Activar sensor de proximidad</string>
+    <string name="allow_proximity_sensor_title">Activar sensor de proximidade</string>
     <string name="allow_proximity_sensor_summary">Comprobar o sensor de proximidade antes de realizala acción</string>
     <!-- Title text for double tap power for camera [CHAR LIMIT=60]-->
     <!-- Summary text for double tap power for camera [CHAR LIMIT=160]-->
     <!-- Restart device -->
-    <string name="restart_needed">O dispositivo debe reiniciarse para aplicala configuración, ¿reiniciar ahora?</string>
+    <string name="restart_needed">O dispositivo compre reiniciarse pra aplicala configuración, ¿reiniciar agora?</string>
 </resources>
